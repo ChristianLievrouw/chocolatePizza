@@ -1,0 +1,28 @@
+body{
+    width: 960px;
+}
+
+.container{
+    margin: 0 auto;
+}
+
+.pageLogo{
+    float: left;
+    margin-top: 5px;
+}
+
+.connectionLogos{
+    float:right;
+}
+
+.connectionLogos li{
+    display: inline;
+}
+
+main {
+    clear: both;
+}
+
+.hero{
+    width: 960px;
+}
